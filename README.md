@@ -1,5 +1,21 @@
 # Hey Everyone 👋, I'm Balu
 A passionate **DevOps Engineer** from India. I work in the IT sector and I teach **AWS + DevOps** through real hands-on project labs at **DevOpsMate**.
+### 👨‍💼 About Me
+
+**DevOpsMate helps students move from zero to production-ready cloud skills with real project labs.**
+
+I'm **Balu**, a DevOps engineer with a passion for teaching. I created DevOpsMate to share practical knowledge and give you a clear path toward **AWS DevOps roles**.
+
+🎯 Don't try to learn everything at once. Focus on what truly matters, build strong core knowledge, and move closer to AWS DevOps jobs.
+
+Whether you're a fresher, switching careers, or curious about DevOps on AWS — this is for you.
+
+> *"Helping people learn DevOps with real-world projects. Let's build and automate the future, one pipeline at a time!"*
+
+---
+
+**Thanks for visiting DevOpsMate — Learn · Grow · Succeed**
+
 
 ![DevOpsMate Banner](assets/devopsmate_logo_banner.PNG)
 
@@ -40,21 +56,3 @@ A passionate **DevOps Engineer** from India. I work in the IT sector and I teach
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devopsmate7&show_icons=true&theme=radical&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&title_color=7C3AED&icon_color=2563EB&text_color=FFFFFF&bg_color=1e3a5f)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devopsmate7&theme=radical&hide_border=false&border_radius=10&ring=7C3AED&fire=2563EB&currStreakLabel=16A34A&sideLabels=FFFFFF&dates=FFFFFF&background=1e3a5f)
-
----
-
-### 👨‍💼 About Me
-
-**DevOpsMate helps students move from zero to production-ready cloud skills with real project labs.**
-
-I'm **Balu**, a DevOps engineer with a passion for teaching. I created DevOpsMate to share practical knowledge and give you a clear path toward **AWS DevOps roles**.
-
-🎯 Don't try to learn everything at once. Focus on what truly matters, build strong core knowledge, and move closer to AWS DevOps jobs.
-
-Whether you're a fresher, switching careers, or curious about DevOps on AWS — this is for you.
-
-> *"Helping people learn DevOps with real-world projects. Let's build and automate the future, one pipeline at a time!"*
-
----
-
-**Thanks for visiting DevOpsMate — Learn · Grow · Succeed**
