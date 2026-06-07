@@ -1,8 +1,7 @@
 # Hey Everyone 👋, I'm Balu
+A passionate **DevOps Engineer** from India. I work in the IT sector and I teach **AWS + DevOps** through real hands-on project labs at **DevOpsMate**.
 
 ![DevOpsMate Banner](assets/devopsmate_logo_banner.PNG)
-
-A passionate **DevOps Engineer** from India. I work in the IT sector and I teach **AWS + DevOps** through real hands-on project labs at **DevOpsMate**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devopsmate7&label=Profile%20Views&color=2563EB&style=for-the-badge)
 
