@@ -1,0 +1,56 @@
+DevOpsMate - GitHub Profile Setup
+
+IMPORTANT: Profile README vs Pinned Repos
+-----------------------------------------
+Profile README shows on Overview automatically from repo:
+  https://github.com/devopsmate7/devopsmate7
+
+You do NOT pin this repo.
+Pinning only shows a small repo card — NOT the full README on Overview.
+
+Open your profile Overview:
+  https://github.com/devopsmate7
+
+If README not visible:
+1. Open Overview tab (not Repositories tab)
+2. Hard refresh browser (Ctrl+Shift+R)
+3. Confirm repo name is exactly: devopsmate7/devopsmate7
+4. Confirm README.md is on main branch root
+5. Do NOT pin devopsmate7/devopsmate7
+
+----------------------------------------
+GITHUB SETTINGS -> PROFILE
+https://github.com/settings/profile
+
+NAME
+Balu
+
+BIO
+DevOps Engineer | AWS + DevOps Trainer | DevOpsMate
+Learn · Grow · Succeed | Real hands-on cloud project labs
+
+COMPANY
+DevOpsMate
+
+LOCATION
+India
+
+WEBSITE
+https://github.com/devopsmate7
+
+PROFILE PICTURE
+Upload: IMG_0575.JPG (optional)
+
+PROFILE BANNER
+Upload: devopsmate_logo_banner.PNG
+
+----------------------------------------
+PIN 6 PROJECT REPOS (NOT devopsmate7/devopsmate7)
+1. -AWS-Project-01-EC2-deployment
+2. End-End-VPC-project
+3. VPC-project-complete-networking-using-Terraform
+4. Complete-CI-CD-pipeline-Feature-Prod-setup
+5. E-commerce-Application-Deployment-on-EC2
+6. E-commerce-Application-Deployment-using-Docker
+
+Optional 7th swap: E-commerce-Application-Deployment-on-EKS
